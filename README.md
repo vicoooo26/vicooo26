@@ -1,9 +1,9 @@
 ### Welcome! 🎃
 ### This is Vico!
 
-<a href="https://github.com/vicoooo26">
+<!-- <a href="https://github.com/vicoooo26">
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=vicoooo26&show_icons=true" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/vicoooo26">
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicoooo26&layout=compact&show_icons=true" />
 </a> -->
